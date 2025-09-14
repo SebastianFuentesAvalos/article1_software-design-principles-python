@@ -1,16 +1,16 @@
 # Software Design Principles: Building Robust Applications in Python
 
-Este repositorio acompaña al artículo sobre principios de diseño de software en Python. Aquí encontrarás ejemplos de código, ejercicios prácticos y sus soluciones para que puedas aprender y practicar SRP, OCP y otros principios fundamentales.
+This repository accompanies the article on software design principles in Python. Here you will find code examples, practical exercises, and their solutions so you can learn and practice SRP, OCP, and other fundamental principles.
 
 ---
 
-## ¿Cómo usar este repositorio?
+## How to use this repository?
 
-1. Lee el artículo y revisa los ejemplos en `notification.py` y en el README.
-2. Entra a la carpeta `exercises/` y abre los archivos de ejercicios.
-3. Resuelve los ejercicios siguiendo las instrucciones en cada archivo.
-4. Compara tus soluciones con los archivos de la carpeta `solutions/`.
-5. (Opcional) Ejecuta los tests para verificar tus soluciones:
+1. Read the article and review the examples in `notification.py` and in the README.
+2. Go to the `exercises/` folder and open the exercise files.
+3. Solve the exercises by following the instructions in each file.
+4. Compare your solutions with the files in the `solutions/` folder.
+5. (Optional) Run the tests to verify your solutions:
 
 ```bash
 python test_exercises.py
@@ -18,14 +18,14 @@ python test_exercises.py
 
 ---
 
-## Ejercicios incluidos
+## Included Exercises
 
-- **SRP**: Refactoriza para que cada clase tenga una sola responsabilidad.
-- **OCP**: Refactoriza para permitir agregar nuevas funcionalidades sin modificar el código existente.
+- **SRP**: Refactor so that each class has a single responsibility.
+- **OCP**: Refactor to allow adding new functionality without modifying existing code.
 
 ---
 
-## Estructura del proyecto
+## Project Structure
 
 ```
 article1_software-design-principles-python/
@@ -45,7 +45,7 @@ article1_software-design-principles-python/
 
 ---
 
-## Referencias
+## References
 
 - [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
 - [Python Official Docs](https://docs.python.org/3/library/abc.html)
